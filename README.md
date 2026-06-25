@@ -100,7 +100,6 @@ These technologies were used to build **operational mining dashboards, productio
 
 <ul>
 <li>Developed and improved <b>UI components using React</b>, optimizing user experience and responsiveness.</li>
-<li>Developed and improved <b>UI components using React</b>, optimizing user experience and responsiveness</li>
 <li>Built <b>reusable React components</b>, reducing development time for new features.</li>
 <li>Designed and developed <b>REST APIs using Node.js, Express and NestJS principles</b>, improving backend response times.</li>
 <li>Implemented <b>data validation in endpoints</b> to ensure data integrity from frontend inputs.</li>
