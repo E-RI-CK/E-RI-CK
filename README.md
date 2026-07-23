@@ -78,13 +78,11 @@ These technologies were used to build **operational mining dashboards, productio
 </div>
 
 <ul>
-<li>Implemented real-time mining metrics using <b>WebSockets for live data streaming</b>, combined with visualization libraries for operational analysis and monitoring. </li>
-<li>Developed advanced interfaces with <b>Next.js for topographic visualization and machinery monitoring</b>, improving platform loading speed and navigation.</li>
-<li>Integrated <b>Unity WebGL with Next.js</b> to enable interactive 3D visualization, developing polygon drawing tools and block model manipulation features to optimize operational decision-making.</li>
-<li>Implemented global state management with <b>Redux Toolkit</b>, reducing code duplication and improving maintainability. </li>
-<li>Optimized dashboards in <b>React</b>, reducing unnecessary renders and improving real-time performance. </li>
-<li>Migrated the Marcobre web application from <b>React.js to Next.js</b>, refactoring components, restructuring routing, and ensuring compatibility with existing APIs, improving overall performance. </li>
-<li>Deployed and managed production environments on <b>AWS EC2</b>, ensuring system stability and availability.</li>
+<li>Implemented real-time mining metrics using WebSockets and data visualization libraries, reducing chart loading times by 50 %, from 8s to 4s, and improving operational monitoring. </li>
+<li>Optimized React/Next.js dashboards by reducing unnecessary re-renders, decreasing filter-related errors (days, shifts, etc.) by 40 %.</li>
+<li>Integrated Unity WebGL with Next.js to enable interactive 3D visualization, developing polygon drawing tools and block model manipulation features to improve operational analysis and decision-making.</li>
+<li>Migrated the Marcobre web application from React.js to Next.js, refactoring components, restructuring routing, and ensuring compatibility with existing APIs, improving overall performance.</li>
+<li>Deployed and managed production environments on AWS EC2, ensuring system stability and availability</li>
 </ul>
 
 ---
@@ -99,15 +97,14 @@ These technologies were used to build **operational mining dashboards, productio
 </div>
 
 <ul>
-<li>Developed and improved <b>UI components using React</b>, optimizing user experience and responsiveness.</li>
-<li>Developed and improved <b>UI components using React</b>, optimizing user experience and responsiveness</li>
-<li>Built <b>reusable React components</b>, reducing development time for new features.</li>
-<li>Designed and developed <b>REST APIs using Node.js, Express and NestJS principles</b>, improving backend response times.</li>
+<li>Optimized REST services in Node.js, reducing response times by 65 %, from 6s to 2s in key operations.</li>
+<li>Implemented centralized error handling and validation, reducing the time required to detect and resolve production bugs by 40 %</li>
+<li>Fixed critical issues in the payment platform, reducing customer-reported incidents by 90 % and improving system stability.</li>
+<li>Developed reusable React components, reducing development time for new features.</li>
 <li>Implemented <b>data validation in endpoints</b> to ensure data integrity from frontend inputs.</li>
-<li>Structured backend using <b>layered architecture (controllers, services, data access)</b> improving maintainability. </li>
+<li>Structured the backend using a layered architecture (controllers, services, and data access), improving maintainability. </li>
 <li>Implemented <b>centralized error handling</b>, improving traceability and production stability.</li>
 <li>Fixed <b>critical issues in the payment platform</b>, reducing production incidents.</li>
-
 </ul>
 
 ---
@@ -121,12 +118,10 @@ These technologies were used to build **operational mining dashboards, productio
 </div>
 
 <ul>
-<li>Developed and customized websites using <b>WordPress</b>, including theme and plugin creation/modification, improving load times and user experience.</li>
-<li>Implemented features using <b>Angular</b>, increasing application interactivity.</li>
-<li>Designed <b>responsive interfaces</b>, improving compatibility across mobile devices.</li>
-<li>Integrated <b>forms, webhooks and automations</b>, reducing manual internal processes. </li>
-<li>Optimized <b>SQL databases</b>, improving query performance. </li>
-<li>Improved <b>technical SEO</b>, increasing organic visibility of websites.</li>
+<li>Improved technical SEO across websites, increasing organic search visibility by 60 % and expanding service exposure</li>
+<li>Optimized frontend performance and SQL databases, reducing page load times by 30 % and improving the user experience.</li>
+<li>Reduced 10 hours of manual work per week by integrating forms, webhooks, and automation into internal processes.</li>
+<li>Developed and customized websites using WordPress and Angular, including theme and plugin development and customization, improving page load times and user experience. </li>
 </ul>
 
 ---
