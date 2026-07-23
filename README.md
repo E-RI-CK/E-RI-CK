@@ -104,7 +104,6 @@ These technologies were used to build **operational mining dashboards, productio
 <li>Implemented <b>data validation in endpoints</b> to ensure data integrity from frontend inputs.</li>
 <li>Structured the backend using a layered architecture (controllers, services, and data access), improving maintainability. </li>
 <li>Implemented <b>centralized error handling</b>, improving traceability and production stability.</li>
-<li>Fixed <b>critical issues in the payment platform</b>, reducing production incidents.</li>
 </ul>
 
 ---
